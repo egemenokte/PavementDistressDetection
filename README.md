@@ -1,6 +1,6 @@
 # PavementDistressDetection
 
-Workshop material created for ASCE ICTD 2023 Conference. You can access and download the full dataset here as there is a file limit on GitHub. Run the CNNV2.ipynb to access the notebook The model will uses a VGG16 backbone and a classification head as well as a bounding box regression head. It requests a GPU from colab (if available). We are using the UAPD Dataset! ![UAPD](https://github.com/tantantetetao/UAPD-Pavement-Distress-Dataset) 
+Workshop material created for ASCE ICTD 2023 Conference. You can access and download the full dataset here as there is a file limit on GitHub. Run the CNNV2.ipynb to access the notebook The model will uses a VGG16 backbone and a classification head as well as a bounding box regression head. It requests a GPU from colab (if available). We are using the UAPD Dataset. ![UAPD](https://github.com/tantantetetao/UAPD-Pavement-Distress-Dataset) 
 
 https://drive.google.com/drive/folders/1TD8RIJV5MEsUwKYbHvzR_PUP4OG-YWRh?usp=drive_link
 
